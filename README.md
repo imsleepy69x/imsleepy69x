@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imsleepy69x&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsleepy69x&layout=compact&theme=dark)
+## 📊 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imsleepy69x&theme=dark&hide_border=true)
