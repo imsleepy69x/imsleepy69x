@@ -12,4 +12,6 @@
 
 ## 📊 Activity
 
+![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=imsleepy69x&theme=dark&hide_border=true)
